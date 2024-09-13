@@ -40,7 +40,7 @@ behaviour of these natural structures.
 ```
 
 That was easy! To add a new paragraph, just add a blank line in between two
-lines of text. If that paragraph needs a subheading, produce it by typing `==`
+lines of text. If that paragraph needs a subheading, precede it by typing `==`
 instead of `=`. The number of `=` characters determines the nesting level of the
 heading.
 
